@@ -1,0 +1,18 @@
+{
+  "name": "eduauraa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node create.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.17.1",
+    "html-to-json-converter": "^1.0.3",
+    "mysql2": "^2.2.5"
+  }
+}
